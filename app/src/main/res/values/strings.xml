@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Matr</string>
+    <string name="action_settings">Settings</string>
+    <color name="white">#FFFFFF</color>
+    <string name="TOPIC">Answers</string>
+    <integer name="MSG">8</integer>
+    <string name="title_activity_question_1">question_1</string>
+    <string name="q1">1. </string>
+    <string name="q2">2. </string>
+    <string name="q3">3. </string>
+    <string name="q4">4. </string>
+</resources>
