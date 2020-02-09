@@ -7,7 +7,7 @@ package com.example.myapplication
 // This information can be found under:
 // https://console.solace.cloud/services/ -> <your-service> -> 'Connect' -> 'MQTT'
 const val SOLACE_MQTT_HOST ="tcp://removedcredentials.messaging.solace.cloud:1883"
-const val SOLACE_CLIENT_PASSWORD = "password"
+const val SOLACE_CLIENT_PASSWORD = "password_has_been_removed"
 
 // Other options
 const val SOLACE_CLIENT_USER_NAME = "solace-cloud-client"
